@@ -1,4 +1,4 @@
-# Data Visualization using Apache Superset
+# Data Visualization Using Apache Superset
 
 In this project I exploring apache-superset to exporting data to compatible superset source, and visualizing that. This project coverage :
 - apache-superset installation.
